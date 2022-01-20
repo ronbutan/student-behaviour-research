@@ -1,7 +1,7 @@
 
 ####### NOTE: This file is part of the sample file for GitHub Workshop, we won't be doing any coding in the workshop ;)
 
-# utility functions
+# utility functions method-A
 
 readinteger <- function()
 { 
